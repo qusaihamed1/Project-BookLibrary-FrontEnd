@@ -17,28 +17,8 @@ Custom CSS	Styling using CSS and Flexbox/Grid
 
 
 📁 Project Structure
-src/
-├── components/
-│ ├── Book.jsx
-│ ├── Navbar.jsx
-│ ├── Footer.jsx
-│ ├── DarkModeToggle.jsx
-│ ├── ReviewComponent.jsx
-│ ├── RouterApp.jsx
-│ ├── Search.jsx
-│ ├── SuggestedBooks.jsx
-│ └── Welcome.jsx
-│
-├── pages/
-│ ├── About.jsx
-│ ├── Arrivals.jsx
-│ ├── Featured.jsx
-│ ├── Home.jsx
-│ └── Reviews.jsx
-│
-├── App.js
-├── index.js
-└── index.css
+![image](https://github.com/user-attachments/assets/2e2d5f68-153e-49e4-8a0f-de64a330b127)
+
 _________________________________________________________________________________________
 🚀 Picture
 ![image](https://github.com/user-attachments/assets/a7acef05-50f2-467f-883c-ffdbca631f7f)
