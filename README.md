@@ -1,5 +1,6 @@
 📘 Project BookLibrary - FrontEnd
 This is a React.js frontend for a digital Book Library. The interface provides a modern user experience with features such as browsing books, viewing reviews, and navigating through pages using client-side routing.
+_________________________________________________________________________________________
 
 🚀 Features
 🏠 Homepage with welcome section and featured books
@@ -9,14 +10,22 @@ This is a React.js frontend for a digital Book Library. The interface provides a
 🔍 Search functionality
 🔀 React Router navigation
 📱 Responsive design
+_________________________________________________________________________________________
 
 🛠️ Technologies Used
 React.js	JavaScript library for building UI
 React Router DOM	For page navigation and routing
 Custom CSS	Styling using CSS and Flexbox/Grid
+_________________________________________________________________________________________
 
 
 📁 Project Structure
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/2e2d5f68-153e-49e4-8a0f-de64a330b127)
 
 _________________________________________________________________________________________
