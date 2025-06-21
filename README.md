@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+📘 Project BookLibrary - FrontEnd
+This is a React.js frontend for a digital Book Library. The interface provides a modern user experience with features such as browsing books, viewing reviews, and navigating through pages using client-side routing.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🚀 Features
+🏠 Homepage with welcome section and featured books
+📚 Book component with suggestions and search
+🌙 Dark mode toggle
+💬 Book review display
+🔍 Search functionality
+🔀 React Router navigation
+📱 Responsive design
 
-## Available Scripts
+🛠️ Technologies Used
+React.js	JavaScript library for building UI
+React Router DOM	For page navigation and routing
+Custom CSS	Styling using CSS and Flexbox/Grid
 
-In the project directory, you can run:
+📁 Project Structure
+src/
+├── components/        # Reusable components
+│   ├── Book.jsx
+│   ├── Navbar.jsx
+│   ├── Footer.jsx
+│   ├── DarkModeToggle.jsx
+│   ├── ReviewComponent.jsx
+│   ├── RouterApp.jsx
+│   ├── Search.jsx
+│   ├── SuggestedBooks.jsx
+│   └── Welcome.jsx
+│
+├── pages/             # Route-level pages
+│   ├── About.jsx
+│   ├── Arrivals.jsx
+│   ├── Featured.jsx
+│   ├── Home.jsx
+│   └── Reviews.jsx
+│
+├── App.js             # Root component
+├── index.js           # Entry point
+└── index.css          # Global styles
+🚀 Picture
+![image](https://github.com/user-attachments/assets/a7acef05-50f2-467f-883c-ffdbca631f7f)
+![image](https://github.com/user-attachments/assets/97dba560-4ef4-4857-982b-f683650d38ad)
+![image](https://github.com/user-attachments/assets/e37f7d56-3dc2-4a73-b081-11d6b2226f10)
+![image](https://github.com/user-attachments/assets/657f2a23-9059-4c6d-9984-7cb1f82643a8)
+![image](https://github.com/user-attachments/assets/637139d3-70d6-4740-8727-7ca404024930)
+![image](https://github.com/user-attachments/assets/7a2d0414-75ab-4d70-8468-7e1e2d224d38)
+![image](https://github.com/user-attachments/assets/142aa3b6-a4dc-449a-8746-0e11c2ed4794)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
