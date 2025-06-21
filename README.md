@@ -40,11 +40,17 @@ src/
 └── index.css          # Global styles
 🚀 Picture
 ![image](https://github.com/user-attachments/assets/a7acef05-50f2-467f-883c-ffdbca631f7f)
+
 ![image](https://github.com/user-attachments/assets/97dba560-4ef4-4857-982b-f683650d38ad)
+
 ![image](https://github.com/user-attachments/assets/e37f7d56-3dc2-4a73-b081-11d6b2226f10)
+
 ![image](https://github.com/user-attachments/assets/657f2a23-9059-4c6d-9984-7cb1f82643a8)
+
 ![image](https://github.com/user-attachments/assets/637139d3-70d6-4740-8727-7ca404024930)
+
 ![image](https://github.com/user-attachments/assets/7a2d0414-75ab-4d70-8468-7e1e2d224d38)
+
 ![image](https://github.com/user-attachments/assets/142aa3b6-a4dc-449a-8746-0e11c2ed4794)
 
 
